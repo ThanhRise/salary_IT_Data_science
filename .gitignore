@@ -7,3 +7,10 @@ FlaskAPI
 __pycache__
 
 .ipynb_checkpoints
+
+/data
+data/
+image
+processing
+*data
+*.csv
